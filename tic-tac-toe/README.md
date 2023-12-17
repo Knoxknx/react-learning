@@ -31,5 +31,5 @@ Profesional informático con de experiencia en el ámbito del desarrollo de soft
 
 ## Implicados
 - Elias Garcia Carvajal [LinkedIn](www.linkedin.com/in/knoxknx)
-- Profesor - Miguel Durán García (Midudev) [GitHub](https://github.com/midudev), [LinkIn](https://www.linkedin.com/in/midudev/) 
+- Profesor - Miguel Durán García (Midudev) [GitHub](https://github.com/midudev), [LinkedIn](https://www.linkedin.com/in/midudev/) 
 
